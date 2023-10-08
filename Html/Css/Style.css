@@ -1,12 +1,24 @@
 h1 {
-    color: black;
-    font: arial;
-    background-color: aqua;
-    display: inline-block;
+    color: rgba(232, 229, 229, 0.247);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgba(8, 8, 7, 0.947);
+    text-align: justify;
+    text-align: right;
+}
+
+p {
+    float: left;
+    font-family: Arial;
+    margin-right: 600px;
+    text-align: justify;
+    font-size: 20px;
+    margin-bottom: 600px;
+    color: white;
     text-align: center;
+
 }
