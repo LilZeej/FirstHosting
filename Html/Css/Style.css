@@ -1,0 +1,12 @@
+h1 {
+    color: black;
+    font: arial;
+    background-color: aqua;
+    display: inline-block;
+
+}
+
+body {
+    background-color: blueviolet;
+    text-align: center;
+}
